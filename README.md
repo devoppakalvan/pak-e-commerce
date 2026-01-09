@@ -87,3 +87,4 @@ creating a front end of the e-commerce site
 
 </body>
 </html>
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/c738567e-1f70-4400-9007-d989e413cc48" />
